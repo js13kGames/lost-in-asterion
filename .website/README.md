@@ -1,4 +1,7 @@
 ---
+genres:
+  - adventure
+  - survival
 post: https://blog.slashie.net/2017/09/30/postmortem-lost-in-asterion-js13k-2017/
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
